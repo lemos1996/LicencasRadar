@@ -1,7 +1,22 @@
-"clientes": [
+{
+    "clientes": [
         {
             "cnpj": "12345678000199",
             "pc_id": "A1B2-C3D4-E5F6",
             "expira_em": "2025-12-31",
             "status": "ATIVO"
         },
+        {
+            "cnpj": "98765432000188",
+            "pc_id": "Z9Y8-X7W6-V5U4",
+            "expira_em": "2025-11-30",
+            "status": "BLOQUEADO"
+        },
+        {
+            "cnpj": "12542000000100",
+            "pc_id": "03000200-0400-0500-0006-000700080009",
+            "expira_em": "2025-12-24",
+            "status": "ATIVO"
+        }
+    ]
+}
