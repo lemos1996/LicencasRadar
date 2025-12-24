@@ -1,0 +1,10 @@
+{
+  "clientes": [
+    {
+      "cnpj": "12345678000199",
+      "pc_id": "A1B2-C3D4-E5F6",
+      "expira_em": "2025-02-28",
+      "status": "ATIVO"
+    }
+  ]
+}
